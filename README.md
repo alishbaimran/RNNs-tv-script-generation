@@ -1,1 +1,1 @@
-As part of my Deep Learning Udacity Nanodegree, I created a TV Script Generation Model. In this project, I generated my own Seinfeld TV scripts using RNNs. The Neural Network generates a new, "fake" TV script.
+As part of my Deep Learning Udacity Nanodegree, I created a TV Script Generation Model. In this project, I generated my own Seinfeld TV scripts using RNNs. The Neural Network generates a new, "fake" TV script, based on patterns it recognizes from the training data.
